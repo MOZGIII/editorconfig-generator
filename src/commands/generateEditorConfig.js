@@ -41,6 +41,10 @@ indent_style = tab
 [*.md]
 trim_trailing_whitespace = false
 
+[*.go]
+indent_style = tab
+indent_size = 4
+
 `;
 
 
